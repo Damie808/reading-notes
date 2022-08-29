@@ -9,7 +9,7 @@ highlighting; 3.) a nice variety of themes (to reduce eye strain and
 fatigue); and 4.) the ability to choose from a healthy selection of
 extensions available when you need them.
 
-https://ryanstutorials.net/linuxtutorial/commandline.php
+[command line](https://ryanstutorials.net/linuxtutorial/commandline.php)
 
 A command line, or terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
 
@@ -25,9 +25,11 @@ Within a terminal you have what is known as a shell. This is a part of the opera
 
 If you would like to know which shell you are using you may use a command called echo to display a system variable stating your current shell. echo is a command which is used to display messages.
 
-https://ryanstutorials.net/linuxtutorial/navigation.php
+[Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
 
 URL includes commands to navigate a terminal
+
+[Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 
 EVERYTHING IS A FILE
 
