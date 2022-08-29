@@ -1,4 +1,4 @@
-https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf
+[text editor]{https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf}
 
 Picking text editors is usually up to user preference. Use the editor that you are the most comfortable with first and foremost. 
 
