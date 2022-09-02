@@ -12,3 +12,13 @@ Hi my name is *Damie*! I am prior military and found an interest in coding. I ho
  - Believe in yourself. It will get easier.
  
  https://github.com/Damie808/reading-notes/
+
+Table of contents
+[class 1](https://damie808.github.io/reading-notes/class1reflection)
+[Class 2](https://damie808.github.io/reading-notes/class2reflection)
+[Class 3](https://damie808.github.io/reading-notes/class3reflection)
+[Class 4](https://damie808.github.io/reading-notes/class4reflection)
+[Class 5](https://damie808.github.io/reading-notes/class5reflection)
+[Class 6](https://damie808.github.io/reading-notes/class6reflection)
+[Class 7](https://damie808.github.io/reading-notes/class7reflection)
+[Class 8](https://damie808.github.io/reading-notes/class8reflection)
