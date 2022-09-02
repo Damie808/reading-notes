@@ -14,11 +14,11 @@ Hi my name is *Damie*! I am prior military and found an interest in coding. I ho
  https://github.com/Damie808/reading-notes/
 
 Table of contents
-[class 1](https://damie808.github.io/reading-notes/class1reflection)
-[Class 2](https://damie808.github.io/reading-notes/class2reflection)
-[Class 3](https://damie808.github.io/reading-notes/class3reflection)
-[Class 4](https://damie808.github.io/reading-notes/class4reflection)
-[Class 5](https://damie808.github.io/reading-notes/class5reflection)
-[Class 6](https://damie808.github.io/reading-notes/class6reflection)
-[Class 7](https://damie808.github.io/reading-notes/class7reflection)
-[Class 8](https://damie808.github.io/reading-notes/class8reflection)
+1.[Growth mindset and github](https://damie808.github.io/reading-notes/class1reflection)
+2.[Coder's computer](https://damie808.github.io/reading-notes/class2reflection)
+3.[Git/Github](https://damie808.github.io/reading-notes/class3reflection)
+4.[HTML](https://damie808.github.io/reading-notes/class4reflection)
+5.[CSS](https://damie808.github.io/reading-notes/class5reflection)
+6.[Javascript](https://damie808.github.io/reading-notes/class6reflection)
+7.[Functions](https://damie808.github.io/reading-notes/class7reflection)
+8.[Loops](https://damie808.github.io/reading-notes/class8reflection)
