@@ -31,10 +31,10 @@ Hi my name is *Damie*! I am prior military and found an interest in coding. I ho
 
 8.[Loops](https://damie808.github.io/reading-notes/class8reflection)
 
-# Code 102 Reading Notes
+# Code 201 Reading Notes
 
-1. Daily Readings
-2. Daily Readings
+1. [Html,css,js](https://damie808.github.io/reading-notes/201reading1)
+2. [html,css,js continued](https://damie808.github.io/reading-notes/201reading2)
 3. Daily Readings
 4. Daily Readings
 5. Daily Readings
