@@ -30,3 +30,23 @@ Hi my name is *Damie*! I am prior military and found an interest in coding. I ho
 7.[Functions](https://damie808.github.io/reading-notes/class7reflection)
 
 8.[Loops](https://damie808.github.io/reading-notes/class8reflection)
+
+# Code 102 Reading Notes
+
+1. Daily Readings
+2. Daily Readings
+3. Daily Readings
+4. Daily Readings
+5. Daily Readings
+6. Daily Readings
+7. Daily Readings
+8. Daily Readings
+9. Daily Readings
+10. Daily Readings
+11. Daily Readings
+12. Daily Readings
+13. Daily Readings
+14. Daily Readings
+15. Daily Readings
+
+
