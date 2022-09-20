@@ -8,7 +8,7 @@ In the beginning, the Web was just text, and it was really quite boring. Fortuna
   
   In order to put a simple image on a webpage, we use the <img> element. This is an empty element (meaning that it has no text content or closing tag) that requires a minimum of one attribute to be useful — src (sometimes spoken as its full title, source). The src attribute contains a path pointing to the image you want to embed in the page, which can be a relative or absolute URL, in the same way as href attribute values in <a> elements.
   
-  [css color](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Applying_color]
+  [css color](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Applying_color)
   
   [css styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
   
