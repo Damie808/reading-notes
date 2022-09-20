@@ -28,7 +28,7 @@ Before starting this topic, you should also be familiar with using computers and
 It is also recommended that you work through Getting started with the web before proceeding with this topic, especially if you are completely new to web development. However, much of what is covered in its CSS basics article is also covered in our CSS first steps module, albeit in a lot more detail.
   
 
-  [JS arrays]([https://developer.mozilla.org/en-US/docs/Learn/JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
+  [js arrays]([https://developer.mozilla.org/en-US/docs/Learn/JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
 
   [js operations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
 
