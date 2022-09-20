@@ -1,4 +1,6 @@
-[Html references](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[Html ordered List]([https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)
+[Html unordered List](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
+
 
 HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web page's appearance/presentation (CSS) or functionality/behavior (JavaScript).
 
@@ -7,7 +9,7 @@ HTML (HyperText Markup Language) is the most basic building block of the Web. It
 
 An HTML element is set off from other text in a document by "tags", which consist of the element name surrounded by "<" and ">". The name of an element inside a tag is case insensitive. That is, it can be written in uppercase, lowercase, or a mixture. For example, the <title> tag can be written as <Title>, <TITLE>, or in any other way. However, the convention and recommended practice is to write tags in lowercase.
   
-[css references](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+[css box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
   
 Cascading Style Sheets — or CSS — is the first technology you should start learning after HTML. While HTML is used to define the structure and semantics of your content, CSS is used to style it and lay it out. For example, you can use CSS to alter the font, color, size, and spacing of your content, split it into multiple columns, or add animations and other decorative features.
 
@@ -25,7 +27,10 @@ Before starting this topic, you should also be familiar with using computers and
 
 It is also recommended that you work through Getting started with the web before proceeding with this topic, especially if you are completely new to web development. However, much of what is covered in its CSS basics article is also covered in our CSS first steps module, albeit in a lot more detail.
   
-[JS references](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+[JS arrays]([https://developer.mozilla.org/en-US/docs/Learn/JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
+[js operations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+[js conditions](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
+[js loops](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)
   
 JavaScript is a programming language that allows you to implement complex things on web pages. Every time a web page does more than just sit there and display static information for you to look at—displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, or more—you can bet that JavaScript is probably involved.
   
